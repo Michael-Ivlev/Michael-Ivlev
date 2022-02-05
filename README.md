@@ -1,20 +1,12 @@
-### Hi there 👋
--🔭 I’m currently working on some fun projects that i have in mind.
--💪🏻 My prodest project:
-* https://github.com/Michael-Ivlev/react-around-api-full
--📫 How to reach me: ...
+## Hey There 👋🏻
+My name is Michael 🧑🏼‍💻 and I am a junior full stack web developer 🚀
 
-<!--
-**Michael-Ivlev/Michael-Ivlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on some fun projects that I want to bring to life.
+🏅 My proudest projects:
 
-Here are some ideas to get you started:
+ - [Image Stack WebSite Front+Back](https://github.com/Michael-Ivlev/react-around-api-full) react nodejs monogodb project
+ - [Blog about traveling](https://github.com/Michael-Ivlev/web_project_3) this is my first step in web development so this project have a special place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+Email: ivlevMic@gmail.com
+LinkedIn: https://www.linkedin.com/in/michael-ivlev/
