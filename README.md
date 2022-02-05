@@ -1,4 +1,4 @@
-## Web Doveleopment in the fun way 🤪
+## Web Doveleopment the fun way 🤪
 My name is Michael 🧑🏼‍💻 and I am a junior full stack web developer 🚀.  
 
 🔭 I'm currently working on some fun projects that I want to bring to life.  
