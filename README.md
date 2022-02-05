@@ -1,5 +1,5 @@
-## Hey There 👋🏻
-My name is Michael 🧑🏼‍💻 and I am a junior full stack web developer 🚀
+## Web Doveleopment in the fun way 🤪
+My name is Michael 🧑🏼‍💻 and I am a junior full stack web developer 🚀.  
 
 🔭 I'm currently working on some fun projects that I want to bring to life.  
 🏅 My proudest projects:
