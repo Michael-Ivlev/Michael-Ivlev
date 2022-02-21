@@ -1,5 +1,5 @@
 
-## Web Doveleopment the fun way 🤪
+## Web Development the fun way 🤪
 My name is Michael 🧑🏼‍💻 and I am a junior web developer 🚀.  
 
 🔭 I'm currently working on some fun projects that I want to bring to life.  
